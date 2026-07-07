@@ -4,7 +4,7 @@
 This project investigates whether sleep duration predicts heart disease
 in adults who have tested positive for COVID-19, using the
 [CDC BRFSS 2022 dataset][(https://www.cdc.gov/brfss/annual_data/annual_2022.html).](https://www.kaggle.com/datasets/kamilpytlak/personal-key-indicators-of-heart-disease/data).
-Three models — logistic regression, decision tree, and random forest —
+Three models: logistic regression, decision tree, and random forest, 
 were benchmarked using 5-fold cross-validation on a stratified 80/20 split.
 
 ## Key Results
